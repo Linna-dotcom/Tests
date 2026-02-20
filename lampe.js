@@ -13,9 +13,4 @@ document.addEventListener('DOMContentLoaded', funktion (){
 
 
 
-
-
-    }
-
-
-})
+});
