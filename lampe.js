@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', funktion (){
-    var handleClick = function (){
+    var :handleClick = function (){
         if (document.querySelector('#Lampe').style.backroundImage === 'url("IMG_1944.png")'){
             document.querySelector('#Lampe').style.backroundImage === 'url("IMG_1943.png")';
             document.querySelector('#Lampe')style.backroundColor = 'rgb(255, 234, 0)';
@@ -7,9 +7,9 @@ document.addEventListener('DOMContentLoaded', funktion (){
             document.querySelector('#Lampe').style.backroundImage === 'url("IMG_1944.png")';
             document.querySelector('#Lampe')style.backroundColor = 'grey';
         }
-    }
-        var button = document.querySelector('#Birne');
-        button.addEventListener('click', handleClick);
+    },
+    var :button = document.querySelector('#Birne');
+    button.addEventListener('click', handleClick);
 
 
 
