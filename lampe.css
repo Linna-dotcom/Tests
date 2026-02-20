@@ -1,0 +1,16 @@
+#Lampe {
+
+    background-image: url("IMG_1943.png");
+    height: 512px;
+    width: 512px;
+    border-radius: 512px;
+}
+
+button {
+
+    height: 125px;
+    width: 125px;
+    background-color: (black);
+    border-radius: 75px;
+    color: (255, 234, 0);
+}
