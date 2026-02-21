@@ -1,20 +1,16 @@
 #Lampe {
-    background-color: rgb(255, 234, 0);
-    background-image: url("IMG_1943.png");
-    height: 125px; 
-    width: 125px;
-    border-radius: 125px; 
+    background-image: url("img/licht-an.png");
+    height: 512px; 
+    width: 512px;
+    border-radius: 512px; 
     display: flex;
     justify-content:center;
-    flex-direction: column-reverse;
-    align-items: center;
 }
 
 button {
-    height: 25px; 
-    width: 25px;
+    height: 125px; 
+    width: 125px;
     background-color: rgb(0, 0, 0);
-    border-radius: 7,5px; 
+    border-radius: 75px; 
     color:rgb(255, 234, 0);
-    font-size: 5px;
 }
