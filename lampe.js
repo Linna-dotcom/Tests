@@ -20,7 +20,7 @@ var handleClick = function () {
 
 var handleClick = function () {
     if (document.querySelector('#Birne').style.color === 'grey') {
-        document.querySelector('#Birne').style.color = 'rgb(255, 234, 0)';
+        document.querySelector('#Birne').style.color = 'rgb(255, 205, 0)';
     } else {
         document.querySelector('#Birne').style.color = 'grey';
     }
