@@ -3,7 +3,6 @@
     background-image: url("img/IMG_1943.png");
     height: 512px; 
     width: 512px;
-    border-radius: 512px; 
     display: flex;
     justify-content:center;
     flex-direction: column-reverse;
